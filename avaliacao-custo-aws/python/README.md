@@ -34,8 +34,8 @@ Antes de executar o projeto, é necessário configurar as credenciais da AWS e a
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/managment-aws.git
-   cd managment-aws/python
+   git clone https://github.com/seu-usuario/avaliacao-custo-aws
+   cd avaliacao-custo-aws/python
    ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
